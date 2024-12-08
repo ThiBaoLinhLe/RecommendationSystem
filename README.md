@@ -1,4 +1,4 @@
-# Movie Recommendation System
+## Movie Recommendation System
 This Python-based Movie Recommendation System uses movie genre similarity to suggest similar movies based on a user input. It leverages the TF-IDF Vectorizer from sklearn to calculate genre-based similarities and cosine similarity to rank the movies. If the user’s input is not an exact match, fuzzy matching with get_close_matches is used to suggest the closest titles.
 
 # Features
